@@ -1,0 +1,42 @@
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.vbproj.AssemblyReference.cache
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Beverage.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Checkout.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Desserts.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.MenuForm.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Login.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Resources.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Snacks.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Summary.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.vbproj.GenerateResource.cache
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.vbproj.CoreCompileInputs.cache
+D:\CSC 301 PROJECT\BoxJBCafe\bin\Debug\BoxJBCafe.exe.config
+D:\CSC 301 PROJECT\BoxJBCafe\bin\Debug\BoxJBCafe.exe
+D:\CSC 301 PROJECT\BoxJBCafe\bin\Debug\BoxJBCafe.pdb
+D:\CSC 301 PROJECT\BoxJBCafe\bin\Debug\BoxJBCafe.xml
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.exe
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.xml
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.pdb
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Registration.resources
+D:\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.StaffForm.resources
+D:\CSC 301 PROJECT\BoxJBCafe\bin\Debug\StaffDatabase.accdb
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\bin\Debug\StaffDatabase.accdb
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\bin\Debug\BoxJBCafe.exe.config
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\bin\Debug\BoxJBCafe.exe
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\bin\Debug\BoxJBCafe.pdb
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\bin\Debug\BoxJBCafe.xml
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.vbproj.AssemblyReference.cache
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Beverage.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Checkout.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Desserts.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.MenuForm.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Login.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Resources.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Registration.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Snacks.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.StaffForm.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.Summary.resources
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.vbproj.GenerateResource.cache
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.vbproj.CoreCompileInputs.cache
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.exe
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.xml
+D:\iCloudDrive\CS110\Final Group Project\CSC 301 PROJECT\CSC 301 PROJECT\BoxJBCafe\obj\Debug\BoxJBCafe.pdb
